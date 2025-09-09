@@ -47,6 +47,13 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        mystery: {
+          black: "hsl(var(--mystery-black))",
+          white: "hsl(var(--mystery-white))",
+          gray: "hsl(var(--mystery-gray))",
+          "light-gray": "hsl(var(--mystery-light-gray))",
+          border: "hsl(var(--mystery-border))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
